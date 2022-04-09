@@ -6,6 +6,7 @@ My name is Nikolai Klemp and I am studying for a Master's degree in robotic engi
 <h3> Connect with me! <h3/>
  <a href="https://www.facebook.com/nikolai.klemppetersen" rel="nofollow"> <img <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magnus.farstad" height="30" width="40" style="max-width: 100%;">
    <a href="https://www.linkedin.com/in/nikolai-klemp-petersen-32384816a/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikolaiklemppetersen" height="30" width="40" style="max-width: 100%;"></a>
+  <a href="https://www.instagram.com/nikolaiklemp" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikolaiklemp" height="30" width="40" style="max-width: 100%;"></a>
   
   
 <h3> Language and Tools <h3/>
