@@ -2,6 +2,8 @@
 
 My name is Nikolai Klemp and I am studying for a Master's degree in robotic engineering at NMBU.
 
+I’m currently on my 2th semester in robotic engineering at NMBU.
+📫 You can reach me by E-mail: nikolai.klemp.petersen@nmbu.no
 
 <h3> Connect with me! <h3/>
  <a href="https://www.facebook.com/nikolai.klemppetersen" rel="nofollow"> <img <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magnus.farstad" height="30" width="40" style="max-width: 100%;">
