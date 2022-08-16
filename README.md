@@ -2,7 +2,7 @@
 
 My name is Nikolai Klemp and I am studying for a Master's degree in robotic engineering at NMBU.
 
-<li> I’m currently on my 2th semester in robotic engineering at NMBU.
+<li> I’m currently on my 2nd semester in robotic engineering at NMBU.
 <li> 📫 You can reach me by E-mail: nikolai.klemp.petersen@nmbu.no
 
 <h3> Connect with me! <h3/>
