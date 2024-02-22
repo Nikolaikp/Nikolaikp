@@ -2,7 +2,7 @@
 
 My name is Nikolai Klemp Petersen
 
-<li> 🏫 I’m currently on my 2nd year on my masters degree in robotic engineering at NMBU.
+<li> 🏫 I’m currently on my 3rd year on my masters degree in robotic engineering at NMBU.
 <li> 📫 You can reach me by E-mail: nikolai.klemp.petersen@nmbu.no
 
 <h3> Connect with me! <h3/>
